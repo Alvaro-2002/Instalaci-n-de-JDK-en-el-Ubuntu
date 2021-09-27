@@ -11,4 +11,8 @@ En este  repositorio se muestran todos los pasos a seguir para instalar JDK en U
 Lo primero que debemos hacer es abrir una terminal y poner el siguiente comando :  sudo `apt-get update`; lo que actualizara el sistema. Procederemos a instalar java con 
 sudo `  sudo apt-get install default-jdk
 ` y posteriormente comprobamos la versión  con  `java -version`.
-[Virtual-Box-ubunto-1.png](https://postimg.cc/mcGsGJHf)
+
+[![Virtual-Box-ubunto-1.png](https://i.postimg.cc/HLrsbCWx/Virtual-Box-ubunto-1.png)](https://postimg.cc/mcGsGJHf)
+[![Virtual-Box-ubunto-2-copia.png](https://i.postimg.cc/d3wkYtr1/Virtual-Box-ubunto-2-copia.png)](https://postimg.cc/9RgFP2x5)
+
+2
